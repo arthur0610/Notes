@@ -16,4 +16,4 @@ Recording some details for what i learned, those are helpful for me.
 
 [Spring01_HelloSpring](./Spring01.md)
 
-[Spring02_annotation](./Spring02.md)
+[Spring02_Annotation](./Spring02.md)
