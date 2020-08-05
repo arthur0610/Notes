@@ -5,6 +5,15 @@ Recording some details for what i learned, those are helpful for me.
 
 ## Catalogue
 
-[Maven Project](https://github.com/arthur0610/Notes/blob/master/Maven.md)
+### Maven
 
-[XML](https://github.com/arthur0610/Notes/blob/master/XML.md)
+[Maven Project](./Maven.md)
+
+### XML
+[XML](./XML.md)
+
+### Spring
+
+[Spring01_HelloSpring](./Spring01.md)
+
+[Spring02_Annotation](./Spring02.md)
